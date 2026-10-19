@@ -143,8 +143,8 @@ If you encounter difficulties installing CapsQual, feel free to [open an issue](
 
 5. **Finalize and export.** Press the Export button or `Ctrl + Enter` to open the export dialog. Choose transcript conventions, customize line-wrapping, timestamps and other options and export as HTML, DOCX, TXT, or SRT.
 
-![CapsQual export dialog](https://raw.githubusercontent.com/anouarg88/CapsQual/refs/heads/main/screenshots/screenshot_export_dark.png#gh-dark-mode-only">
-![CapsQual export dialog](https://raw.githubusercontent.com/anouarg88/CapsQual/refs/heads/main/screenshots/screenshot_export_light.png#gh-light-mode-only">
+![CapsQual export dialog](https://raw.githubusercontent.com/anouarg88/CapsQual/refs/heads/main/screenshots/screenshot_export_dark.png#gh-dark-mode-only")
+![CapsQual export dialog](https://raw.githubusercontent.com/anouarg88/CapsQual/refs/heads/main/screenshots/screenshot_export_light.png#gh-light-mode-only")
 ---
 
 ## CLI Usage
