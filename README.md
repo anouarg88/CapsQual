@@ -7,10 +7,9 @@ CapsQual (formerly CapsGAT) is an open source cross-platform workstation for edi
 
 However, it is not meant as a replacement for dedicated manual transcription software (for full-fledged, professional transcription software, check out [EXMARaLDA](https://www.exmaralda.org)), nor as an all-in-one automated transcription worksuite (for AI-powered transcription with automatic diarization check out [noScribe](https://ai4culture.eu/resources/tools/172)), but as a complementary formatting tool to be used with transcription AI models such as Whisper AI or CapsWriter, aimed at those who wish to efficiently tidy up their automatically transcribed interview-data in a user-friendly, intuitive environment. Projects can be loaded or saved. Transcripts can be exported as .HTML, .DOCX, .TXT or .SRT files.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anouarg88/CapsQual/refs/heads/main/screenshots/screenshot_editor_dark.png">
-  <img src="https://raw.githubusercontent.com/anouarg88/CapsQual/refs/heads/main/screenshots/screenshot_editor_light.png" alt="CapsQual editor window">
-</picture>
+
+![CapsQual editor window](https://raw.githubusercontent.com/anouarg88/CapsQual/refs/heads/main/screenshots/screenshot_editor_dark.png#gh-dark-mode-only)
+![CapsQual editor window](https://raw.githubusercontent.com/anouarg88/CapsQual/refs/heads/main/screenshots/screenshot_editor_light.png#gh-light-mode-only)
 
 # Installation
 
